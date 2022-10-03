@@ -12,7 +12,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="368dp"
-        android:id="@+id/imageView1"
+        android:id="@+id/imgMainPage"
         android:contentDescription="@String/resource/description" 
         android:src="@drawable/mainpage"/>
 
@@ -20,7 +20,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="300.0dp"
         android:layout_height="111.0dp"
-        android:id="@+id/textView1"
+        android:id="@+id/txtMainPage"
         android:layout_marginTop="400dp"
         android:layout_marginBottom="13.0dp"
         android:layout_marginRight="0.0dp"
@@ -33,11 +33,10 @@
         android:text="Find the cheapest petrol station near you"/>
     
     <Button
-        android:background="#1E1"
         android:text="Get Started"
         android:layout_width="245.0dp"
         android:layout_height="wrap_content"
-        android:id="@+id/button1"
+        android:id="@+id/btnGetStarted"
         android:layout_marginTop="550dp"
         android:layout_centerHorizontal="true"
         android:fontFamily="sans-serif"
