@@ -1,0 +1,15 @@
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\bin\Debug\netstandard2.0\carGasPriceTrackerMain.deps.json
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\bin\Debug\netstandard2.0\carGasPriceTrackerMain.dll
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\bin\Debug\netstandard2.0\carGasPriceTrackerMain.pdb
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.csproj.AssemblyReference.cache
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.AssemblyInfoInputs.cache
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.AssemblyInfo.cs
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.csproj.CoreCompileInputs.cache
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.dll
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\refint\carGasPriceTrackerMain.dll
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.pdb
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\ref\carGasPriceTrackerMain.dll

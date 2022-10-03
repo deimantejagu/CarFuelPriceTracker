@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t26RV6C2JgxT1UeP6sEWOU2AmtsjpL3XnH4irCjpbecY1Y8znmHRcKoLbB/dA5IcdwcV/mD7qv6VZUZCy4wEgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deimante\\source\\repos\\carGasPriceTrackerMain\\carGasPriceTrackerMain\\carGasPriceTrackerMain\\carGasPriceTrackerMain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deimante\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.forms.inputkit\\4.1.5\\xamarin.forms.inputkit.4.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
