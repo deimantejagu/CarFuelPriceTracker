@@ -38,7 +38,7 @@ class PriceScanner
 
             var httpClient = new HttpClient();
             // If you changed the API key (token) before, change it here also (skip if you didn't change)
-            httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Token", "eb22ad7dad7171577372b9b4c93b1c35");
+            httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Token", token);
             var response = httpClient.PostAsync(url, form).Result;
             // Change the path with your own: 
             File.WriteAllText(@"C:\Users\martynas\Desktop\output.txt", response.Content.ReadAsStringAsync().Result);
