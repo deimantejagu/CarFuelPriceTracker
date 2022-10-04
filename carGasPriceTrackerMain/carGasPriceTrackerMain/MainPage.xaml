@@ -4,39 +4,4 @@
              xmlns:local="clr-namespace:carGasPriceTrackerMain"
              xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
              x:Class="carGasPriceTrackerMain.MainPage">
-
-    <ContentPage.BindingContext>
-        <local:TodoListViewModel/>
-    </ContentPage.BindingContext>
-
-    <StackLayout>
-        <Entry 
-            x:Name="InputField"
-            Text="{Binding NewTodoInputValue}"
-            Placeholder="Enter a ToDo"
-            ReturnCommand="{Binding AddTodoCommand}">
-        </Entry>
-
-        <ListView x:Name="TodoList" ItemsSource="{Binding TodoItems}">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <FlexLayout JustifyContent="SpaceBetween" AlignItems="Center" Padding="20, 0">
-                            <input:CheckBox 
-                                IsChecked="{Binding Complete}"/>
-                            <Label Text="{Binding TodoText}" FontSize="Large"></Label>
-                            <ImageButton 
-                                Source="delete.png"
-                                Scale="0.5"
-                                Command="{Binding Path=BindingContext.RemoveTodoCommand, Source={x:Reference TodoList}}"
-                                CommandParameter="{Binding .}">
-                            </ImageButton>
-                        </FlexLayout>
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-        
-    </StackLayout>
-
 </ContentPage>
