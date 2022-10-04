@@ -14,10 +14,10 @@ class PriceScanner
         var url = "https://api.mindee.net/v1/products/vrapas/test/v1/predict";
 
         // Gets list of all images in your given path:
-        string[] files = Directory.GetFiles(@"C:\Users\martynas\Desktop\prices", "*.jpg");
-        File.WriteAllText(@"C:\Users\martynas\Desktop\output.txt", "");
-        File.WriteAllText(@"C:\Users\martynas\Desktop\prices.txt", "");
-        File.WriteAllText(@"C:\Users\martynas\Desktop\rawPrices.txt", "");
+        string[] files = Directory.GetFiles(@"..\img", "*.jpg");
+        File.WriteAllText(@"..\output.txt", "");
+        File.WriteAllText(@"..\prices.txt", "");
+        File.WriteAllText(@"..\rawPrices.txt", "");
 
         // Loops through each image
         foreach (string image in files)
@@ -38,10 +38,10 @@ class PriceScanner
 
             var httpClient = new HttpClient();
             // If you changed the API key (token) before, change it here also (skip if you didn't change)
-            httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Token", "eb22ad7dad7171577372b9b4c93b1c35");
+            httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Token", token);
             var response = httpClient.PostAsync(url, form).Result;
             // Change the path with your own: 
-            File.WriteAllText(@"C:\Users\martynas\Desktop\output.txt", response.Content.ReadAsStringAsync().Result);
+            File.WriteAllText(@"..\output.txt", response.Content.ReadAsStringAsync().Result);
 
             // Following program removes unnecessary things from output,
             // leaving the prices only. It then prints them to your chosen text file
@@ -50,7 +50,7 @@ class PriceScanner
             List<string> words = new List<string>();
             string oneWord = "";
             // Change the path with your own:
-            string readText = File.ReadAllText(@"C:\Users\martynas\Desktop\output.txt");
+            string readText = File.ReadAllText(@"..\output.txt");
 
             // Collects all "words" into a list
             for (int i = 0; i < readText.Length; i++)
@@ -86,7 +86,7 @@ class PriceScanner
             prices = prices.Distinct().ToList();
 
             // Outputs raw prices: 
-            System.IO.File.AppendAllLines(@"C:\Users\martynas\Desktop\rawPrices.txt", prices);
+            System.IO.File.AppendAllLines(@"..\rawPrices.txt", prices);
 
             // Formats the prices:
             var count = prices.Count;
@@ -121,7 +121,7 @@ class PriceScanner
             }
 
             // Change the path with your own:
-            System.IO.File.AppendAllLines(@"C:\Users\martynas\Desktop\prices.txt", prices);
+            System.IO.File.AppendAllLines(@"..\prices.txt", prices);
         }
     }
 }
