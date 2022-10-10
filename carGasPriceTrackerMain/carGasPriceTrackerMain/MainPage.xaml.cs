@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using carGasPriceTrackerMain.PriceScannerOCR;
+using Java.IO;
+using Newtonsoft.Json;
+using System.IO;
+using System.Reflection;
 using Xamarin.Forms;
+using System;
 
 namespace carGasPriceTrackerMain
 {
@@ -13,6 +13,9 @@ namespace carGasPriceTrackerMain
         public MainPage()
         {
             InitializeComponent();
+
+            var readJson = new DBScanner();
+            System.Console.WriteLine(readJson.GetMainData());
         }
     }
 }

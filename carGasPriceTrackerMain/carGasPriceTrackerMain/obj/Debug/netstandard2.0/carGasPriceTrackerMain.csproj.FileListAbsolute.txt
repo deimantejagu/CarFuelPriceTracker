@@ -13,3 +13,7 @@ C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\car
 C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\refint\carGasPriceTrackerMain.dll
 C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.pdb
 C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\ref\carGasPriceTrackerMain.dll
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Deimante\source\repos\carGasPriceTrackerMain\carGasPriceTrackerMain\carGasPriceTrackerMain\obj\Debug\netstandard2.0\carGasPriceTrackerMain.csproj.CopyComplete

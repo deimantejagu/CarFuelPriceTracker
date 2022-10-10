@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eHwZAvd8OzXqQCe6CiALoNcax17szdY1EMeco+S/SX9wFerz9Vn8h1IaJznUwrW7+UCsgjk5vAHH+hP4UbJUAA==",
+  "dgSpecHash": "VJ/mmoqwhi8L85crVfUwllCHrxEt6JGurM7k9xrPGe/kCJ54YzytoPYCsvbi7hGsjJBcLO+oYjXJ5FBfTGRqqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Deimante\\source\\repos\\carGasPriceTrackerMain\\carGasPriceTrackerMain\\carGasPriceTrackerMain.iOS\\carGasPriceTrackerMain.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Deimante\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\system.net.http.winhttphandler\\6.0.1\\system.net.http.winhttphandler.6.0.1.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
