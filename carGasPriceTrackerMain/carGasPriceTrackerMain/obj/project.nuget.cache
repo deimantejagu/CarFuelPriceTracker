@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "t26RV6C2JgxT1UeP6sEWOU2AmtsjpL3XnH4irCjpbecY1Y8znmHRcKoLbB/dA5IcdwcV/mD7qv6VZUZCy4wEgw==",
+  "dgSpecHash": "IHzZVodf5NkZkRUIpKGKvaBjl9rL1ZhyIHimDjQGvyV4EJx7xavgNLnNwAU3F+j+Ij6SYR5+PtCI/19B8XVlAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Deimante\\source\\repos\\carGasPriceTrackerMain\\carGasPriceTrackerMain\\carGasPriceTrackerMain\\carGasPriceTrackerMain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deimante\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\system.net.http.winhttphandler\\6.0.1\\system.net.http.winhttphandler.6.0.1.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.forms.inputkit\\4.1.5\\xamarin.forms.inputkit.4.1.5.nupkg.sha512"

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yKQCCZ24ujmAf1BDXO8NdDxwpfi5Ld2h8Kq2FAU3MGHl9bXiNUnyFdghGHX5ldIVC7hVIjHa+eHY2oCaA4zgOw==",
+  "dgSpecHash": "4cyavkVL5bIQRjyTm45FzNrYgj9B3DZ5BQ8HkVe0qFFiS5fnWmjfNuJkrABkYsggB/+SLdF/JS7rS57S9Kcxnw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Deimante\\source\\repos\\carGasPriceTrackerMain\\carGasPriceTrackerMain\\carGasPriceTrackerMain.Android\\carGasPriceTrackerMain.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Deimante\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Deimante\\.nuget\\packages\\system.net.http.winhttphandler\\6.0.1\\system.net.http.winhttphandler.6.0.1.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Deimante\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

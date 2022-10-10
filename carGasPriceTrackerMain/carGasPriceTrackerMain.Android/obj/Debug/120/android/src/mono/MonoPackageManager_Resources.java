@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"carGasPriceTrackerMain.Android.dll",
 		"carGasPriceTrackerMain.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Plugin.InputKit.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
